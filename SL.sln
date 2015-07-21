@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLocker", "SL\SimpleLocker.csproj", "{54432615-6BC3-4F37-AD0B-BEFC98C5A6BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLocker.TestConsole", "SL.TestConsole\SimpleLocker.TestConsole.csproj", "{A9596AA7-295A-4502-AFAD-FD5DAA12A8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54432615-6BC3-4F37-AD0B-BEFC98C5A6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54432615-6BC3-4F37-AD0B-BEFC98C5A6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54432615-6BC3-4F37-AD0B-BEFC98C5A6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54432615-6BC3-4F37-AD0B-BEFC98C5A6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9596AA7-295A-4502-AFAD-FD5DAA12A8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9596AA7-295A-4502-AFAD-FD5DAA12A8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9596AA7-295A-4502-AFAD-FD5DAA12A8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9596AA7-295A-4502-AFAD-FD5DAA12A8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
