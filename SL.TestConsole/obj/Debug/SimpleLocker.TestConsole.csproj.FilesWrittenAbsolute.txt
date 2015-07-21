@@ -1,7 +1,0 @@
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/bin/Debug/SimpleLocker.TestConsole.exe.mdb
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/bin/Debug/SimpleLocker.TestConsole.exe
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/obj/Debug/SimpleLocker.TestConsole.exe
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/obj/Debug/SimpleLocker.TestConsole.exe.mdb
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/bin/Debug/SimpleLocker.dll
-/Users/felipeteixeira/Documents/Git/SimpleLocker/SL.TestConsole/bin/Debug/SimpleLocker.dll.mdb
